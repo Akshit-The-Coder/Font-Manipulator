@@ -1,0 +1,40 @@
+.btn-warning
+{
+top: 0;
+width: 100%;
+text-align: center;
+}
+#name
+{
+    font-size: 23px;
+    color: white;
+    text-shadow: 2px 2px 2px black;
+}
+#note
+{
+    color: black;
+    font-size: 17px;
+    text-shadow: 1px 1px 1px white;
+}
+#copy_right_footer
+{
+    bottom: 0;
+    text-align: center;
+    position: fixed;
+    width: 100%;
+    background-color: cornsilk;
+    font-size: 20px;
+    border:4px dotted  green;
+    margin-right: 30px;
+}
+canvas
+{
+   border-style: dashed;
+   margin-top: 120px;
+   border-color: red;
+   border-width: 5px;
+   border-radius: 10px;
+}
+video{
+    margin-top: 160px;
+}
